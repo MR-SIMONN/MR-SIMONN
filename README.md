@@ -8,10 +8,3 @@
 
   ---
   
-  <h1 align="center">Let's connect</h1>
-  
-<p align="center">
-<a href="https://github.com/MR-SIMONN">
- <img src="github-logo.png" width="40" />
-</a>
-  </p>
